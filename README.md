@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomasfreedom119
-- 👀 I’m interested in Mars
-- 🌱 I’m currently learning history
-- 💞️ I’m looking to collaborate on docs
+- 👀 I’m interested in coding
+
+Fight for freedom!
 
 
 <!---
